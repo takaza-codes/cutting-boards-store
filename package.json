@@ -12,6 +12,7 @@
     "vite": "^6.2.0"
   },
   "dependencies": {
-    "apexcharts": "^4.5.0"
+    "apexcharts": "^4.5.0",
+    "eslint": "^9.24.0"
   }
 }
