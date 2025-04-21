@@ -1,0 +1,249 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #56593D;
+}
+
+a {
+    color: #56593D;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(218, 128, 64)
+}
+
+#top-background-layer {
+    width: 100vw;
+    height: 94px;
+    background-color: #FFFFEF;
+    border: 1px solid #FFFFEF;
+}
+
+.flex-container {
+    display: flex;
+    align-items: baseline;
+    width: 100vw;
+    height: 77px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+.menu {
+    width: 40vw;
+    margin-bottom: 0%;
+    margin-right: 0%;
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+.nobullet {
+    display: inline; 
+    margin-right: 22px;
+    text-transform: uppercase;
+    line-height: 157%;
+    letter-spacing: 1.58px;
+}
+
+#logo {
+    width: fit-content;
+    margin-right: 300px;
+    margin-left: 50px;
+}
+
+#top-buttons {
+    width: fit-content;
+    padding-right: 80px;
+}
+
+.background-banner {
+    width: 1360px;
+    height: 732px;
+    margin-bottom: 20px;
+    background-color: #FFFFEF;
+    border: 1px solid #FFFFEF; 
+}
+
+.banner-one {
+    width: 1328px; 
+    height: 700px;
+    margin-top: 16px;
+    margin-left: 16px;
+    background-image: url(../images/Pasted\ Graphic\ 1.png); 
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    text-align: right;
+}
+
+#banner-text {
+    padding-top: 463px;
+    padding-right: 63px;
+    font-size: 18px;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+}
+
+h1 {
+    margin-top: 0%;
+    margin-bottom: 1%;
+    padding-right: 63px;
+    font-size: 45px;
+    text-transform: capitalize;
+}
+
+#banner-button {
+    width: 154px;
+    height: 56px;
+    margin-right: 63px;
+    margin-bottom: 63px;
+    background-color: #56593D; 
+    border: none; 
+    color: #FFFFEF;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.mission-text {
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.link {
+    width: 1360px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.link a:link {
+    color: #56593D;
+}
+
+.link a:visited {
+    color: rgb(103, 8, 62);
+}
+
+.link a:hover {
+    color:rgb(218, 128, 64)
+}
+
+#first-block-text {
+    width: 1360px;
+    font-size: 57px;
+    line-height: 80px;
+    text-align: center;
+}
+
+#second-block-text {
+    margin-top: 70px;
+    margin-bottom: 90px;
+    font-size: 24px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.board {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 16px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.banner-two {
+    width: 1328px; 
+    height: 700px;
+    margin-top: 16px;
+    margin-left: 16px;
+    background-image: url(../images/essentials.png); 
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    text-align: center;
+    border: 1px solid #FFFFEF;
+}
+
+#section-title {
+    margin-top: 60px;
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+}
+
+#section-text {
+    margin-top: 0%;
+    font-size: 50px;
+}
+
+#section-image {
+    margin-top: 57px;
+    margin-left: 34px;
+}
+
+#section-two {
+    float: right;
+    width: 480px;
+    height: 390px;
+    margin-top: 140px;
+    margin-right: 25px;
+    text-align: center;
+}
+
+#section-title-two {
+    font-size: 29px;
+    text-transform: capitalize;
+}
+
+#section-text-two {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+#background-footer {
+    width: 1360px;
+    height: 382px;
+    background-color: #717353;
+    color: #FFFFEF;
+}
+
+#background-footer a:link {
+    color: #FFFFEF;
+    text-decoration: none;
+}
+
+#background-footer a:visited {
+    color: rgb(103, 8, 62);
+}
+
+#background-footer a:hover {
+    color:rgb(218, 128, 64)
+}
+
+#background-footer a:active {
+    color: rgb(79, 26, 26);
+}
+
+#background-footer ul {
+    width: 600px;
+    margin-left: 150px;
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+    list-style-type: none;
+    font-size: 16px;
+    letter-spacing: 1.58px;
+    line-height: 30px;
+    text-transform: uppercase;
+    }
+
+#background-footer section {
+    width: 348px;
+    height: 124px;
+    margin-top: 72px;
+    margin-left: 34px;
+}
+
+.list-title {
+    margin-bottom: 35px;
+}
+
+#social-media-icons {
+    width: fit-content;
+}
